@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "game_over_controller",
+  "identifier": "playback_controller_model:33132-11e4ab4a-ecc8-4b23-8784-6bbc84d46140",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:32620-11e4ab4a-ecc8-4b23-8784-6bbc84d46140"
+}
